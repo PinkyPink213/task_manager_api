@@ -1,6 +1,6 @@
 # Task Manager API
 
-### Live Demo: [Task Manager](/)
+### Live Demo: [Task Manager](https://sunny-cannoli-c5834b.netlify.app)
 
 ![task manager](./img/TakManager.png)
 
