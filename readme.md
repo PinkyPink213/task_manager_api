@@ -106,6 +106,4 @@ URL: https://task-manager-api-jh9c.onrender.com/api/v1/tasks
 
 ---
 
-[Back to top](#taskmanager-api)
-
 > Generated at 2024-03-18 21:13:17 by [docgen](https://github.com/thedevsaddam/docgen)
